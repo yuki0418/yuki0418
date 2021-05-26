@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yuki0418&show_icons=true&theme=gotham" alt="yuki0418" />
+
 <!--
 **yuki0418/yuki0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
