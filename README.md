@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img height="150" alt="avatar" src="https://github.com/user-attachments/assets/1eb5ddf6-c7d5-41f7-a710-2cf1dd78f7f2" />
+  <img height="150" alt="logo" src="https://github.com/user-attachments/assets/47351b93-8004-403d-8833-0ca9a7d32035" />
+</div>
 
-<!--
-**yuki0418/yuki0418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  G'day, I'm Yuki Ishii 🦘
+</h1>
 
-Here are some ideas to get you started:
+Blog: https://blog.yuki-dev.com/ <br />
+X: https://x.com/Yuki_Ishii_Dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="https://skillicons.dev/icons?i=svelte,rust&theme=light" />
+</div>
