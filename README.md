@@ -9,6 +9,7 @@
 
 Blog: https://blog.yuki-dev.com/ <br />
 X: https://x.com/Yuki_Ishii_Dev/
+Bluesky: https://bsky.app/profile/yuki-ishii.bsky.social
 
 <div>
     <img src="https://skillicons.dev/icons?i=svelte,rust&theme=light" />
